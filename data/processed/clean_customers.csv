@@ -1,0 +1,16 @@
+customer_id,customer_name,city,region
+C001,Rahul Sharma,Delhi,North
+C002,Priya Mehta,Mumbai,West
+C003,Aman Verma,Bengaluru,South
+C004,Sneha Kapoor,Delhi,North
+C005,Arjun Singh,Pune,West
+C006,Neha Gupta,Hyderabad,South
+C007,Rohit Kumar,Delhi,North
+C008,Ananya Iyer,Chennai,South
+C009,Vikram Patel,Ahmedabad,West
+C010,Kavya Nair,Kochi,South
+C011,Aditya Joshi,Jaipur,North
+C012,Meera Shah,Mumbai,West
+C013,Karan Malhotra,Gurugram,North
+C014,Pooja Rao,Hyderabad,South
+C015,Sahil Jain,Bengaluru,South

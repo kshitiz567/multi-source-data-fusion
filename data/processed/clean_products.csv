@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,price
+P001,Laptop Pro,Electronics,TechNova,65000
+P002,Wireless Headphones,Electronics,SoundMax,4500
+P003,Smart Watch,Electronics,FitTech,7000
+P004,Running Shoes,Sports,Sportify,3500
+P005,Office Chair,Furniture,ComfortCo,9000
+P006,Backpack,Accessories,UrbanGear,2200
+P007,Coffee Maker,Home Appliances,BrewMaster,5500
+P008,Smartphone X,Electronics,TechNova,32000
+P009,Yoga Mat,Sports,FitLife,1500
+P010,Desk Lamp,Furniture,BrightHome,1800

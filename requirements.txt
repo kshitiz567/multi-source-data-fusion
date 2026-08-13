@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+rapidfuzz
+scikit-learn
+plotly
+streamlit
+requests
+jupyter
+ipykernel
+sqlalchemy

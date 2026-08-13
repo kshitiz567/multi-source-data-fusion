@@ -1,0 +1,501 @@
+order_id,customer,cust_id,product,product_id,quantity,revenue,order_date,match_status,match_score,customer_id,customer_name,city,region,product_name,category,brand,price,month,market_index,consumer_confidence,inflation_rate,revenue_per_unit
+O0001,Aditya Joshi,C011,Wireless Headphones,P002,1,4500,2024-05-20,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Wireless Headphones,Electronics,SoundMax,4500,2024-05,18936.11,79.13,5.78,4500.0
+O0002,Sneha Kapoor,C004,Running Shoes,P004,2,7000,2024-02-22,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-02,23704.29,76.37,6.36,3500.0
+O0003,Aditya Joshi,C011,Yoga Mat,P009,1,1500,2024-10-29,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Yoga Mat,Sports,FitLife,1500,2024-10,22248.44,74.18,6.85,1500.0
+O0004,Rohit Kumar,C007,Laptop Pro,P001,1,65000,2024-02-17,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Laptop Pro,Electronics,TechNova,65000,2024-02,23704.29,76.37,6.36,65000.0
+O0005,Sneha Kapoor,C004,Running Shoes,P004,5,17500,2024-11-04,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0006,Rahul Sharma,C001,Yoga Mat,P009,2,3000,2024-11-28,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Yoga Mat,Sports,FitLife,1500,2024-11,18123.51,78.76,6.9,1500.0
+O0007,Meera Shah,C012,Yoga Mat,P009,4,6000,2024-04-22,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-04,21591.95,75.5,5.54,1500.0
+O0008,Ananya Iyer,C008,Desk Lamp,P010,3,5400,2024-01-04,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Desk Lamp,Furniture,BrightHome,1800,2024-01,20247.24,94.97,5.37,1800.0
+O0009,Karan Malhotra,C013,Smart Watch,P003,4,28000,2024-06-23,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smart Watch,Electronics,FitTech,7000,2024-06,18935.97,85.74,4.14,7000.0
+O0010,Arjun Singh,C005,Smart Watch,P003,2,14000,2024-06-21,High Confidence,100.0,C005,Arjun Singh,Pune,West,Smart Watch,Electronics,FitTech,7000,2024-06,18935.97,85.74,4.14,7000.0
+O0011,Rahul Sharma,C002,Wireless Headphones,P002,4,18000,2024-02-19,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-02,23704.29,76.37,6.36,4500.0
+O0012,Neha Gupta,C006,Backpack,P006,5,11000,2024-05-15,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0013,Karan Malhotra,C013,Laptop Pro,P001,4,260000,2024-10-01,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Laptop Pro,Electronics,TechNova,65000,2024-10,22248.44,74.18,6.85,65000.0
+O0014,Priya Mehta,C002,Coffee Maker,P007,1,5500,2024-10-09,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0015,Arjun Singh,C005,Desk Lamp,P010,3,5400,2024-10-22,High Confidence,100.0,C005,Arjun Singh,Pune,West,Desk Lamp,Furniture,BrightHome,1800,2024-10,22248.44,74.18,6.85,1800.0
+O0016,Sneha Kapoor,C004,Wireless Headphones,P002,1,4500,2024-12-04,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-12,23819.46,80.99,6.43,4500.0
+O0017,Sneha Kapoor,C004,Office Chair,P005,1,9000,2024-04-29,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0018,Pooja Rao,C014,Wireless Headphones,P002,4,18000,2024-05-22,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-05,18936.11,79.13,5.78,4500.0
+O0019,Ananya Iyer,C008,Backpack,P006,2,4400,2024-07-08,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Backpack,Accessories,UrbanGear,2200,2024-07,18348.5,82.96,5.82,2200.0
+O0020,Neha Gupta,C006,Running Shoes,P004,3,10500,2024-12-25,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Running Shoes,Sports,Sportify,3500,2024-12,23819.46,80.99,6.43,3500.0
+O0021,R. Sharma,C015,Wireless Headphones,P002,5,22500,2024-11-21,Alias Match,100.0,C001,Rahul Sharma,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-11,18123.51,78.76,6.9,4500.0
+O0022,Aman Verma,C003,Yoga Mat,P009,2,3000,2024-03-24,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Yoga Mat,Sports,FitLife,1500,2024-03,22391.96,75.45,4.6,1500.0
+O0023,Ananya Iyer,C008,Coffee Maker,P007,3,16500,2024-11-23,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-11,18123.51,78.76,6.9,5500.0
+O0024,Meera Shah,C012,Yoga Mat,P009,2,3000,2024-12-16,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-12,23819.46,80.99,6.43,1500.0
+O0025,Neha Gupta,C006,Laptop Pro,P001,2,130000,2024-01-17,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Laptop Pro,Electronics,TechNova,65000,2024-01,20247.24,94.97,5.37,65000.0
+O0026,Karan Malhotra,C013,Backpack,P006,4,8800,2024-05-17,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0027,Priya Mehta,C002,Running Shoes,P004,5,17500,2024-06-10,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-06,18935.97,85.74,4.14,3500.0
+O0028,Sneha Kapoor,C004,Smartphone X,P008,4,128000,2024-11-25,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-11,18123.51,78.76,6.9,32000.0
+O0029,Ananya Iyer,C008,Smart Watch,P003,3,21000,2024-03-12,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smart Watch,Electronics,FitTech,7000,2024-03,22391.96,75.45,4.6,7000.0
+O0030,Sneha Kapoor,C004,Yoga Mat,P009,5,7500,2024-05-14,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Yoga Mat,Sports,FitLife,1500,2024-05,18936.11,79.13,5.78,1500.0
+O0031,Priya Mehta,C012,Desk Lamp,P010,4,7200,2024-10-25,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-10,22248.44,74.18,6.85,1800.0
+O0032,Rohit Kumar,C007,Backpack,P006,2,4400,2024-03-11,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-03,22391.96,75.45,4.6,2200.0
+O0033,Vikram Patel,C009,Smartphone X,P008,1,32000,2024-01-25,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Smartphone X,Electronics,TechNova,32000,2024-01,20247.24,94.97,5.37,32000.0
+O0034,Pooja Rao,C014,Wireless Headphones,P002,2,9000,2024-11-17,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-11,18123.51,78.76,6.9,4500.0
+O0035,Aman Verma,C003,Coffee Maker,P007,5,27500,2024-02-02,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-02,23704.29,76.37,6.36,5500.0
+O0036,Rohit Kumar,C007,Coffee Maker,P007,5,27500,2024-08-27,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-08,23197.06,78.74,4.51,5500.0
+O0037,Vikram Patel,C009,Office Chair,P005,5,45000,2024-01-06,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0038,Aditya Joshi,C011,Wireless Headphones,P002,5,22500,2024-05-16,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Wireless Headphones,Electronics,SoundMax,4500,2024-05,18936.11,79.13,5.78,4500.0
+O0039,Karan Malhotra,C013,Backpack,P006,1,2200,2024-05-30,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0040,Rohit Kumar,C007,Smart Watch,P003,4,28000,2024-01-02,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0041,Aman Verma,C012,Office Chair,P005,5,45000,2024-04-01,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0042,Vikram Patel,C009,Wireless Headphones,P002,3,13500,2024-11-23,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Wireless Headphones,Electronics,SoundMax,4500,2024-11,18123.51,78.76,6.9,4500.0
+O0043,Vikram Patel,C009,Desk Lamp,P010,2,3600,2024-03-19,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Desk Lamp,Furniture,BrightHome,1800,2024-03,22391.96,75.45,4.6,1800.0
+O0044,Neha Gupta,C006,Smart Watch,P003,5,35000,2024-09-28,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-09,21606.69,88.36,4.2,7000.0
+O0045,Sahil Jain,C015,Laptop Pro,P001,5,325000,2024-06-14,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Laptop Pro,Electronics,TechNova,65000,2024-06,18935.97,85.74,4.14,65000.0
+O0046,Ananya Iyer,C008,Laptop Pro,P001,1,65000,2024-07-04,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Laptop Pro,Electronics,TechNova,65000,2024-07,18348.5,82.96,5.82,65000.0
+O0047,Sahil Jain,C015,Office Chair,P005,2,18000,2024-01-30,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0048,Sneha Kapoor,C004,Desk Lamp,P010,1,1800,2024-02-13,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-02,23704.29,76.37,6.36,1800.0
+O0049,Meera Shah,C012,Smartphone X,P008,1,32000,2024-09-29,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-09,21606.69,88.36,4.2,32000.0
+O0050,Karan Malhotra,C013,Smart Watch,P003,2,14000,2024-12-03,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smart Watch,Electronics,FitTech,7000,2024-12,23819.46,80.99,6.43,7000.0
+O0051,Ananya Iyer,C008,Yoga Mat,P009,2,3000,,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Yoga Mat,Sports,FitLife,1500,,,,,1500.0
+O0052,Vikram Patel,C009,Desk Lamp,P010,4,7200,,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Desk Lamp,Furniture,BrightHome,1800,,,,,1800.0
+O0053,Sahil Jain,C015,Yoga Mat,P009,2,3000,2024-06-08,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Yoga Mat,Sports,FitLife,1500,2024-06,18935.97,85.74,4.14,1500.0
+O0054,Rohit Kumar,C007,Backpack,P006,4,8800,2024-09-21,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-09,21606.69,88.36,4.2,2200.0
+O0055,Ananya Iyer,C008,Wireless Headphones,P002,2,9000,2024-04-25,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Wireless Headphones,Electronics,SoundMax,4500,2024-04,21591.95,75.5,5.54,4500.0
+O0056,Priya Mehta,C002,Backpack,P006,1,2200,2024-10-28,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-10,22248.44,74.18,6.85,2200.0
+O0057,Vikram Patel,C009,Running Shoes,P004,5,17500,2024-04-22,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Running Shoes,Sports,Sportify,3500,2024-04,21591.95,75.5,5.54,3500.0
+O0058,Rahul Sharma,C001,Wireless Headphones,P002,1,4500,2024-04-27,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-04,21591.95,75.5,5.54,4500.0
+O0059,Priya Mehta,C002,Laptop Pro,P001,3,195000,2024-02-06,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Laptop Pro,Electronics,TechNova,65000,2024-02,23704.29,76.37,6.36,65000.0
+O0060,Vikram Patel,C009,Running Shoes,P004,3,10500,2024-12-08,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Running Shoes,Sports,Sportify,3500,2024-12,23819.46,80.99,6.43,3500.0
+O0061,Unknown,C008,Running Shoes,P004,5,17500,2024-03-08,Unknown,0.0,,,,,Running Shoes,Sports,Sportify,3500,2024-03,22391.96,75.45,4.6,3500.0
+O0062,Meera Shah,C012,Unknown Product,P010,5,9000,2024-08-30,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-08,23197.06,78.74,4.51,1800.0
+O0063,Sneha Kapoor,C004,Smartphone X,P008,4,128000,2024-04-07,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-04,21591.95,75.5,5.54,32000.0
+O0064,Priya Mehta,C002,Wireless Headphones,P002,4,18000,2024-06-30,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Wireless Headphones,Electronics,SoundMax,4500,2024-06,18935.97,85.74,4.14,4500.0
+O0065,Rohit Kumar,C007,Coffee Maker,P007,4,22000,2024-01-28,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-01,20247.24,94.97,5.37,5500.0
+O0066,Aditya Joshi,C011,Wireless Headphones,P002,1,4500,2024-07-25,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Wireless Headphones,Electronics,SoundMax,4500,2024-07,18348.5,82.96,5.82,4500.0
+O0067,Meera Shah,C012,Backpack,P006,1,2200,2024-05-07,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0068,Sneha Kapoor,C004,Running Shoes,P004,5,17500,2024-08-17,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-08,23197.06,78.74,4.51,3500.0
+O0069,Aman Verma,C003,Coffee Maker,P007,2,11000,2024-05-22,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-05,18936.11,79.13,5.78,5500.0
+O0070,Ananya Iyer,C008,Running Shoes,P004,1,3500,2024-08-14,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Running Shoes,Sports,Sportify,3500,2024-08,23197.06,78.74,4.51,3500.0
+O0071,Karan Malhotra,C013,Yoga Mat,P009,1,1500,2024-01-26,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Yoga Mat,Sports,FitLife,1500,2024-01,20247.24,94.97,5.37,1500.0
+O0072,Aditya Joshi,C011,Yoga Mat,P009,1,1500,2024-02-17,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Yoga Mat,Sports,FitLife,1500,2024-02,23704.29,76.37,6.36,1500.0
+O0073,Sahil Jain,C015,Running Shoes,P004,2,7000,2024-07-27,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Running Shoes,Sports,Sportify,3500,2024-07,18348.5,82.96,5.82,3500.0
+O0074,Ananya Iyer,C008,Smartphone X,P008,2,64000,2024-07-24,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smartphone X,Electronics,TechNova,32000,2024-07,18348.5,82.96,5.82,32000.0
+O0075,Sahil Jain,C015,Laptop Pro,P001,2,130000,2024-07-13,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Laptop Pro,Electronics,TechNova,65000,2024-07,18348.5,82.96,5.82,65000.0
+O0076,Rahul Sharma,C001,Coffee Maker,P007,3,16500,2024-08-20,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-08,23197.06,78.74,4.51,5500.0
+O0077,Arjun Singh,C005,Coffee Maker,P007,5,27500,2024-12-04,High Confidence,100.0,C005,Arjun Singh,Pune,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-12,23819.46,80.99,6.43,5500.0
+O0078,Meera Shah,C012,Smartphone X,P008,2,64000,2024-04-07,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-04,21591.95,75.5,5.54,32000.0
+O0079,Arjun Singh,C005,Running Shoes,P004,1,3500,2024-10-23,High Confidence,100.0,C005,Arjun Singh,Pune,West,Running Shoes,Sports,Sportify,3500,2024-10,22248.44,74.18,6.85,3500.0
+O0080,Meera Shah,C012,Yoga Mat,P009,1,1500,2024-06-09,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-06,18935.97,85.74,4.14,1500.0
+O0081,Rahul Sharma,C001,Laptop Pro,P001,5,325000,2024-09-01,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Laptop Pro,Electronics,TechNova,65000,2024-09,21606.69,88.36,4.2,65000.0
+O0082,Vikram Patel,C009,Yoga Mat,P009,2,3000,2024-01-30,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Yoga Mat,Sports,FitLife,1500,2024-01,20247.24,94.97,5.37,1500.0
+O0083,Vikram Patel,C009,Wireless Headphones,P002,2,9000,2024-02-05,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Wireless Headphones,Electronics,SoundMax,4500,2024-02,23704.29,76.37,6.36,4500.0
+O0084,Kavya Nair,C010,Wireless Headphones,P002,2,9000,2024-07-25,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Wireless Headphones,Electronics,SoundMax,4500,2024-07,18348.5,82.96,5.82,4500.0
+O0085,Priya Mehta,C002,Desk Lamp,P010,2,3600,2024-10-23,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-10,22248.44,74.18,6.85,1800.0
+O0086,Kavya Nair,C010,Laptop Pro,P001,5,325000,2024-02-11,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Laptop Pro,Electronics,TechNova,65000,2024-02,23704.29,76.37,6.36,65000.0
+O0087,Rohit Kumar,C007,Desk Lamp,P010,5,9000,2024-09-24,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-09,21606.69,88.36,4.2,1800.0
+O0088,Neha Gupta,C006,Office Chair,P005,2,18000,2024-12-08,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-12,23819.46,80.99,6.43,9000.0
+O0089,Meera Shah,C012,Backpack,P006,2,4400,2024-05-15,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0090,Rohit Kumar,C007,Smart Watch,P003,3,21000,2024-08-22,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-08,23197.06,78.74,4.51,7000.0
+O0091,Neha Gupta,C006,Wireless Headphones,P002,1,4500,2024-08-22,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-08,23197.06,78.74,4.51,4500.0
+O0092,Kavya Nair,C010,Desk Lamp,P010,1,1800,2024-02-07,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Desk Lamp,Furniture,BrightHome,1800,2024-02,23704.29,76.37,6.36,1800.0
+O0093,Vikram Patel,C009,Running Shoes,P004,5,17500,2024-05-15,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Running Shoes,Sports,Sportify,3500,2024-05,18936.11,79.13,5.78,3500.0
+O0094,Aman Verma,C003,Backpack,P006,1,2200,2024-05-05,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0095,Neha Gupta,C006,Office Chair,P005,2,18000,2024-08-12,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-08,23197.06,78.74,4.51,9000.0
+O0096,Pooja Rao,C014,Yoga Mat,P009,3,4500,2024-11-09,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-11,18123.51,78.76,6.9,1500.0
+O0097,Karan Malhotra,C013,Yoga Mat,P009,1,1500,2024-12-07,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Yoga Mat,Sports,FitLife,1500,2024-12,23819.46,80.99,6.43,1500.0
+O0098,Pooja Rao,C014,Yoga Mat,P009,3,4500,2024-12-05,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-12,23819.46,80.99,6.43,1500.0
+O0099,Priya Mehta,C002,Smart Watch,P003,3,21000,2024-02-29,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-02,23704.29,76.37,6.36,7000.0
+O0100,Sahil Jain,C015,Wireless Headphones,P002,5,22500,2024-03-20,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Wireless Headphones,Electronics,SoundMax,4500,2024-03,22391.96,75.45,4.6,4500.0
+O0101,Arjun Singh,C005,Office Chair,P005,5,45000,2024-04-17,High Confidence,100.0,C005,Arjun Singh,Pune,West,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0102,Meera Shah,C012,Backpack,P006,2,4400,2024-12-17,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-12,23819.46,80.99,6.43,2200.0
+O0103,Aditya Joshi,C011,Office Chair,P005,5,45000,2024-09-07,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Office Chair,Furniture,ComfortCo,9000,2024-09,21606.69,88.36,4.2,9000.0
+O0104,Arjun Singh,C005,Laptop Pro,P001,1,65000,2024-11-20,High Confidence,100.0,C005,Arjun Singh,Pune,West,Laptop Pro,Electronics,TechNova,65000,2024-11,18123.51,78.76,6.9,65000.0
+O0105,Rohit Kumar,C007,Office Chair,P005,1,9000,2024-01-02,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0106,Neha Gupta,C006,Smart Watch,P003,3,21000,2024-03-23,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-03,22391.96,75.45,4.6,7000.0
+O0107,Meera Shah,C012,Smartphone X,P008,5,160000,2024-12-27,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-12,23819.46,80.99,6.43,32000.0
+O0108,Rohit Kumar,C007,Yoga Mat,P009,1,1500,2024-02-27,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Yoga Mat,Sports,FitLife,1500,2024-02,23704.29,76.37,6.36,1500.0
+O0109,Priya Mehta,C002,Smart Watch,P003,5,35000,2024-01-19,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0110,Pooja Rao,C014,Backpack,P006,5,11000,2024-10-09,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Backpack,Accessories,UrbanGear,2200,2024-10,22248.44,74.18,6.85,2200.0
+O0111,Aman Verma,C003,Coffee Maker,P007,2,11000,2024-01-22,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-01,20247.24,94.97,5.37,5500.0
+O0112,Arjun Singh,C005,Backpack,P006,1,2200,2024-07-02,High Confidence,100.0,C005,Arjun Singh,Pune,West,Backpack,Accessories,UrbanGear,2200,2024-07,18348.5,82.96,5.82,2200.0
+O0113,Sneha Kapoor,C004,Running Shoes,P004,1,3500,2024-06-30,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-06,18935.97,85.74,4.14,3500.0
+O0114,Karan Malhotra,C013,Yoga Mat,P009,4,6000,2024-11-13,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Yoga Mat,Sports,FitLife,1500,2024-11,18123.51,78.76,6.9,1500.0
+O0115,Meera Shah,C012,Smart Watch,P003,2,14000,2024-03-24,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-03,22391.96,75.45,4.6,7000.0
+O0116,Karan Malhotra,C013,Smart Watch,P003,4,28000,2024-01-13,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0117,Aman Verma,C003,Backpack,P006,4,8800,2024-12-08,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Backpack,Accessories,UrbanGear,2200,2024-12,23819.46,80.99,6.43,2200.0
+O0118,Pooja Rao,C014,Running Shoes,P004,3,10500,2024-03-22,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Running Shoes,Sports,Sportify,3500,2024-03,22391.96,75.45,4.6,3500.0
+O0119,Karan Malhotra,C013,Wireless Headphones,P002,4,18000,2024-01-20,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Wireless Headphones,Electronics,SoundMax,4500,2024-01,20247.24,94.97,5.37,4500.0
+O0120,Pooja Rao,C014,Smartphone X,P008,2,64000,2024-04-12,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Smartphone X,Electronics,TechNova,32000,2024-04,21591.95,75.5,5.54,32000.0
+O0121,Pooja Rao,C014,Smartphone X,P008,3,96000,2024-06-05,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Smartphone X,Electronics,TechNova,32000,2024-06,18935.97,85.74,4.14,32000.0
+O0122,Pooja Rao,C014,Running Shoes,P004,2,7000,2024-01-13,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Running Shoes,Sports,Sportify,3500,2024-01,20247.24,94.97,5.37,3500.0
+O0123,Aditya Joshi,C011,Running Shoes,P004,4,14000,2024-06-17,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Running Shoes,Sports,Sportify,3500,2024-06,18935.97,85.74,4.14,3500.0
+O0124,Arjun Singh,C005,Wireless Headphones,P002,3,13500,2024-06-28,High Confidence,100.0,C005,Arjun Singh,Pune,West,Wireless Headphones,Electronics,SoundMax,4500,2024-06,18935.97,85.74,4.14,4500.0
+O0125,Aditya Joshi,C011,Yoga Mat,P009,4,6000,2024-12-13,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Yoga Mat,Sports,FitLife,1500,2024-12,23819.46,80.99,6.43,1500.0
+O0126,Pooja Rao,C014,Yoga Mat,P009,3,4500,2024-01-15,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-01,20247.24,94.97,5.37,1500.0
+O0127,Priya Mehta,C002,Office Chair,P005,2,18000,2024-10-24,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-10,22248.44,74.18,6.85,9000.0
+O0128,Arjun Singh,C005,Laptop Pro,P001,1,65000,2024-11-01,High Confidence,100.0,C005,Arjun Singh,Pune,West,Laptop Pro,Electronics,TechNova,65000,2024-11,18123.51,78.76,6.9,65000.0
+O0129,Rohit Kumar,C007,Backpack,P006,3,6600,2024-08-11,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-08,23197.06,78.74,4.51,2200.0
+O0130,Kavya Nair,C010,Yoga Mat,P009,1,1500,2024-07-16,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Yoga Mat,Sports,FitLife,1500,2024-07,18348.5,82.96,5.82,1500.0
+O0131,Sahil Jain,C015,Desk Lamp,P010,2,3600,2024-05-10,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Desk Lamp,Furniture,BrightHome,1800,2024-05,18936.11,79.13,5.78,1800.0
+O0132,Rahul Sharma,C001,Coffee Maker,P007,1,5500,2024-09-23,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-09,21606.69,88.36,4.2,5500.0
+O0133,Sahil Jain,C015,Yoga Mat,P009,2,3000,2024-07-05,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Yoga Mat,Sports,FitLife,1500,2024-07,18348.5,82.96,5.82,1500.0
+O0134,Rohit Kumar,C007,Wireless Headphones,P002,3,13500,2024-11-15,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-11,18123.51,78.76,6.9,4500.0
+O0135,Neha Gupta,C006,Wireless Headphones,P002,3,13500,2024-09-16,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-09,21606.69,88.36,4.2,4500.0
+O0136,Arjun Singh,C005,Coffee Maker,P007,3,16500,2024-07-25,High Confidence,100.0,C005,Arjun Singh,Pune,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-07,18348.5,82.96,5.82,5500.0
+O0137,Meera Shah,C012,Office Chair,P005,5,45000,2024-03-06,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0138,Sneha Kapoor,C004,Coffee Maker,P007,4,22000,2024-12-12,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-12,23819.46,80.99,6.43,5500.0
+O0139,Meera Shah,C012,Smart Watch,P003,5,35000,2024-10-18,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-10,22248.44,74.18,6.85,7000.0
+O0140,Arjun Singh,C005,Coffee Maker,P007,5,27500,2024-01-01,High Confidence,100.0,C005,Arjun Singh,Pune,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-01,20247.24,94.97,5.37,5500.0
+O0141,Arjun Singh,C005,Office Chair,P005,2,18000,2024-08-08,High Confidence,100.0,C005,Arjun Singh,Pune,West,Office Chair,Furniture,ComfortCo,9000,2024-08,23197.06,78.74,4.51,9000.0
+O0142,Karan Malhotra,C013,Desk Lamp,P010,5,9000,2024-12-01,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0143,Neha Gupta,C006,Smartphone X,P008,4,128000,2024-08-14,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smartphone X,Electronics,TechNova,32000,2024-08,23197.06,78.74,4.51,32000.0
+O0144,Aditya Joshi,C011,Running Shoes,P004,5,17500,2024-08-30,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Running Shoes,Sports,Sportify,3500,2024-08,23197.06,78.74,4.51,3500.0
+O0145,Karan Malhotra,C013,Smart Watch,P003,1,7000,2024-05-25,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smart Watch,Electronics,FitTech,7000,2024-05,18936.11,79.13,5.78,7000.0
+O0146,Vikram Patel,C009,Desk Lamp,P010,3,5400,2024-02-17,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Desk Lamp,Furniture,BrightHome,1800,2024-02,23704.29,76.37,6.36,1800.0
+O0147,Pooja Rao,C014,Running Shoes,P004,3,10500,2024-04-25,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Running Shoes,Sports,Sportify,3500,2024-04,21591.95,75.5,5.54,3500.0
+O0148,Karan Malhotra,C013,Running Shoes,P004,2,7000,2024-01-13,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Running Shoes,Sports,Sportify,3500,2024-01,20247.24,94.97,5.37,3500.0
+O0149,Rahul Sharma,C001,Running Shoes,P004,4,14000,2024-11-08,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0150,Pooja Rao,C014,Wireless Headphones,P002,4,18000,2024-07-31,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-07,18348.5,82.96,5.82,4500.0
+O0151,Sahil Jain,C015,Desk Lamp,P010,2,3600,2024-12-22,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0152,Rohit Kumar,C007,Smartphone X,P008,4,128000,2024-05-04,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-05,18936.11,79.13,5.78,32000.0
+O0153,Aman Verma,C003,Laptop Pro,P001,1,65000,2024-08-05,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Laptop Pro,Electronics,TechNova,65000,2024-08,23197.06,78.74,4.51,65000.0
+O0154,Sneha Kapoor,C004,Smart Watch,P003,5,35000,2024-08-25,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-08,23197.06,78.74,4.51,7000.0
+O0155,Rahul Sharma,C001,Yoga Mat,P009,2,3000,2024-03-03,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Yoga Mat,Sports,FitLife,1500,2024-03,22391.96,75.45,4.6,1500.0
+O0156,Ananya Iyer,C008,Smart Watch,P003,4,28000,2024-12-07,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smart Watch,Electronics,FitTech,7000,2024-12,23819.46,80.99,6.43,7000.0
+O0157,Vikram Patel,C009,Yoga Mat,P009,5,7500,2024-06-11,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Yoga Mat,Sports,FitLife,1500,2024-06,18935.97,85.74,4.14,1500.0
+O0158,Karan Malhotra,C013,Smartphone X,P008,5,160000,2024-09-15,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smartphone X,Electronics,TechNova,32000,2024-09,21606.69,88.36,4.2,32000.0
+O0159,Rohit Kumar,C007,Yoga Mat,P009,4,6000,2024-03-22,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Yoga Mat,Sports,FitLife,1500,2024-03,22391.96,75.45,4.6,1500.0
+O0160,Meera Shah,C012,Smartphone X,P008,4,128000,2024-05-12,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-05,18936.11,79.13,5.78,32000.0
+O0161,Karan Malhotra,C013,Running Shoes,P004,3,10500,2024-09-23,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Running Shoes,Sports,Sportify,3500,2024-09,21606.69,88.36,4.2,3500.0
+O0162,Ananya Iyer,C008,Running Shoes,P004,3,10500,2024-08-13,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Running Shoes,Sports,Sportify,3500,2024-08,23197.06,78.74,4.51,3500.0
+O0163,Priya Mehta,C002,Office Chair,P005,2,18000,2024-05-19,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-05,18936.11,79.13,5.78,9000.0
+O0164,Neha Gupta,C006,Backpack,P006,5,11000,2024-02-11,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Backpack,Accessories,UrbanGear,2200,2024-02,23704.29,76.37,6.36,2200.0
+O0165,Aman Verma,C003,Smart Watch,P003,2,14000,2024-07-15,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Smart Watch,Electronics,FitTech,7000,2024-07,18348.5,82.96,5.82,7000.0
+O0166,Meera Shah,C012,Smart Watch,P003,2,14000,2024-02-02,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-02,23704.29,76.37,6.36,7000.0
+O0167,Rohit Kumar,C007,Coffee Maker,P007,3,16500,2024-10-04,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0168,Ananya Iyer,C008,Coffee Maker,P007,1,5500,2024-04-15,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-04,21591.95,75.5,5.54,5500.0
+O0169,Pooja Rao,C014,Coffee Maker,P007,4,22000,2024-10-26,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0170,Meera Shah,C012,Laptop Pro,P001,5,325000,2024-07-13,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Laptop Pro,Electronics,TechNova,65000,2024-07,18348.5,82.96,5.82,65000.0
+O0171,Ananya Iyer,C008,Laptop Pro,P001,3,195000,2024-06-01,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Laptop Pro,Electronics,TechNova,65000,2024-06,18935.97,85.74,4.14,65000.0
+O0172,Karan Malhotra,C013,Coffee Maker,P007,4,22000,2024-10-02,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0173,Meera Shah,C012,Yoga Mat,P009,5,7500,2024-04-22,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-04,21591.95,75.5,5.54,1500.0
+O0174,Ananya Iyer,C008,Running Shoes,P004,3,10500,2024-08-11,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Running Shoes,Sports,Sportify,3500,2024-08,23197.06,78.74,4.51,3500.0
+O0175,Ananya Iyer,C008,Laptop Pro,P001,4,260000,2024-06-21,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Laptop Pro,Electronics,TechNova,65000,2024-06,18935.97,85.74,4.14,65000.0
+O0176,Aditya Joshi,C011,Coffee Maker,P007,2,11000,2024-08-27,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-08,23197.06,78.74,4.51,5500.0
+O0177,Sahil Jain,C015,Smart Watch,P003,5,35000,2024-09-30,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Smart Watch,Electronics,FitTech,7000,2024-09,21606.69,88.36,4.2,7000.0
+O0178,Rahul Sharma,C001,Coffee Maker,P007,5,27500,2024-10-15,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0179,Aditya Joshi,C011,Laptop Pro,P001,1,65000,2024-11-25,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Laptop Pro,Electronics,TechNova,65000,2024-11,18123.51,78.76,6.9,65000.0
+O0180,Rohit Kumar,C007,Smart Watch,P003,4,28000,2024-04-03,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-04,21591.95,75.5,5.54,7000.0
+O0181,Rahul Sharma,C001,Office Chair,P005,4,36000,2024-06-16,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-06,18935.97,85.74,4.14,9000.0
+O0182,Sneha Kapoor,C004,Smartphone X,P008,3,96000,2024-06-21,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-06,18935.97,85.74,4.14,32000.0
+O0183,Karan Malhotra,C013,Coffee Maker,P007,3,16500,2024-08-03,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-08,23197.06,78.74,4.51,5500.0
+O0184,Arjun Singh,C005,Wireless Headphones,P002,4,18000,2024-01-10,High Confidence,100.0,C005,Arjun Singh,Pune,West,Wireless Headphones,Electronics,SoundMax,4500,2024-01,20247.24,94.97,5.37,4500.0
+O0185,Meera Shah,C012,Yoga Mat,P009,1,1500,2024-06-28,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-06,18935.97,85.74,4.14,1500.0
+O0186,Sneha Kapoor,C004,Wireless Headphones,P002,1,4500,2024-01-16,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-01,20247.24,94.97,5.37,4500.0
+O0187,Sneha Kapoor,C004,Running Shoes,P004,1,3500,2024-11-14,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0188,Aman Verma,C003,Running Shoes,P004,2,7000,2024-08-30,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Running Shoes,Sports,Sportify,3500,2024-08,23197.06,78.74,4.51,3500.0
+O0189,Aditya Joshi,C011,Wireless Headphones,P002,5,22500,2024-04-21,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Wireless Headphones,Electronics,SoundMax,4500,2024-04,21591.95,75.5,5.54,4500.0
+O0190,Ananya Iyer,C008,Office Chair,P005,3,27000,2024-03-26,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0191,Kavya Nair,C010,Desk Lamp,P010,1,1800,2024-03-24,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Desk Lamp,Furniture,BrightHome,1800,2024-03,22391.96,75.45,4.6,1800.0
+O0192,Arjun Singh,C005,Wireless Headphones,P002,5,22500,2024-01-14,High Confidence,100.0,C005,Arjun Singh,Pune,West,Wireless Headphones,Electronics,SoundMax,4500,2024-01,20247.24,94.97,5.37,4500.0
+O0193,Sahil Jain,C015,Office Chair,P005,5,45000,2024-12-12,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-12,23819.46,80.99,6.43,9000.0
+O0194,Sahil Jain,C015,Coffee Maker,P007,4,22000,2024-04-11,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-04,21591.95,75.5,5.54,5500.0
+O0195,Priya Mehta,C002,Desk Lamp,P010,2,3600,2024-02-22,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-02,23704.29,76.37,6.36,1800.0
+O0196,Meera Shah,C012,Office Chair,P005,5,45000,2024-03-02,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0197,Karan Malhotra,C013,Desk Lamp,P010,1,1800,2024-06-26,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-06,18935.97,85.74,4.14,1800.0
+O0198,Vikram Patel,C009,Coffee Maker,P007,3,16500,2024-02-05,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-02,23704.29,76.37,6.36,5500.0
+O0199,Vikram Patel,C009,Backpack,P006,1,2200,2024-08-03,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Backpack,Accessories,UrbanGear,2200,2024-08,23197.06,78.74,4.51,2200.0
+O0200,Pooja Rao,C014,Smartphone X,P008,1,32000,2024-08-09,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Smartphone X,Electronics,TechNova,32000,2024-08,23197.06,78.74,4.51,32000.0
+O0201,Neha Gupta,C006,Smartphone X,P008,2,64000,2024-08-10,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smartphone X,Electronics,TechNova,32000,2024-08,23197.06,78.74,4.51,32000.0
+O0202,Aman Verma,C003,Yoga Mat,P009,3,4500,2024-11-11,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Yoga Mat,Sports,FitLife,1500,2024-11,18123.51,78.76,6.9,1500.0
+O0203,Karan Malhotra,C013,Yoga Mat,P009,4,6000,2024-08-26,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0204,Rohit Kumar,C007,Desk Lamp,P010,3,5400,2024-06-14,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-06,18935.97,85.74,4.14,1800.0
+O0205,Pooja Rao,C014,Running Shoes,P004,1,3500,2024-05-22,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Running Shoes,Sports,Sportify,3500,2024-05,18936.11,79.13,5.78,3500.0
+O0206,Sahil Jain,C015,Smartphone X,P008,2,64000,2024-08-25,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Smartphone X,Electronics,TechNova,32000,2024-08,23197.06,78.74,4.51,32000.0
+O0207,Kavya Nair,C010,Desk Lamp,P010,4,7200,2024-06-21,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Desk Lamp,Furniture,BrightHome,1800,2024-06,18935.97,85.74,4.14,1800.0
+O0208,Rahul Sharma,C001,Smartphone X,P008,3,96000,2024-04-03,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-04,21591.95,75.5,5.54,32000.0
+O0209,Ananya Iyer,C008,Running Shoes,P004,3,10500,2024-05-12,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Running Shoes,Sports,Sportify,3500,2024-05,18936.11,79.13,5.78,3500.0
+O0210,Neha Gupta,C006,Office Chair,P005,5,45000,2024-12-25,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-12,23819.46,80.99,6.43,9000.0
+O0211,Sahil Jain,C015,Office Chair,P005,5,45000,2024-01-06,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0212,Vikram Patel,C009,Running Shoes,P004,1,3500,2024-05-03,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Running Shoes,Sports,Sportify,3500,2024-05,18936.11,79.13,5.78,3500.0
+O0213,Meera Shah,C012,Coffee Maker,P007,4,22000,2024-10-11,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0214,Karan Malhotra,C013,Running Shoes,P004,4,14000,2024-11-26,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0215,Meera Shah,C012,Smartphone X,P008,4,128000,2024-01-09,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-01,20247.24,94.97,5.37,32000.0
+O0216,Priya Mehta,C002,Office Chair,P005,2,18000,2024-07-26,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-07,18348.5,82.96,5.82,9000.0
+O0217,Meera Shah,C012,Running Shoes,P004,3,10500,2024-12-05,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-12,23819.46,80.99,6.43,3500.0
+O0218,Kavya Nair,C010,Backpack,P006,4,8800,2024-10-10,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Backpack,Accessories,UrbanGear,2200,2024-10,22248.44,74.18,6.85,2200.0
+O0219,Vikram Patel,C009,Backpack,P006,4,8800,2024-10-08,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Backpack,Accessories,UrbanGear,2200,2024-10,22248.44,74.18,6.85,2200.0
+O0220,Neha Gupta,C006,Backpack,P006,4,8800,2024-05-18,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0221,Arjun Singh,C005,Office Chair,P005,2,18000,2024-03-02,High Confidence,100.0,C005,Arjun Singh,Pune,West,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0222,Meera Shah,C012,Running Shoes,P004,3,10500,2024-03-02,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-03,22391.96,75.45,4.6,3500.0
+O0223,Meera Shah,C012,Yoga Mat,P009,2,3000,2024-04-08,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-04,21591.95,75.5,5.54,1500.0
+O0224,Sneha Kapoor,C004,Smartphone X,P008,3,96000,2024-10-28,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-10,22248.44,74.18,6.85,32000.0
+O0225,Karan Malhotra,C013,Yoga Mat,P009,5,7500,2024-05-24,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Yoga Mat,Sports,FitLife,1500,2024-05,18936.11,79.13,5.78,1500.0
+O0226,Priya Mehta,C002,Running Shoes,P004,3,10500,2024-04-26,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-04,21591.95,75.5,5.54,3500.0
+O0227,Neha Gupta,C006,Smart Watch,P003,3,21000,2024-01-08,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0228,Meera Shah,C012,Yoga Mat,P009,2,3000,2024-05-20,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-05,18936.11,79.13,5.78,1500.0
+O0229,Rahul Sharma,C001,Laptop Pro,P001,5,325000,2024-05-29,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Laptop Pro,Electronics,TechNova,65000,2024-05,18936.11,79.13,5.78,65000.0
+O0230,Meera Shah,C012,Smart Watch,P003,4,28000,2024-02-22,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-02,23704.29,76.37,6.36,7000.0
+O0231,Pooja Rao,C014,Laptop Pro,P001,5,325000,2024-05-25,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Laptop Pro,Electronics,TechNova,65000,2024-05,18936.11,79.13,5.78,65000.0
+O0232,Ananya Iyer,C008,Smartphone X,P008,4,128000,2024-06-23,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smartphone X,Electronics,TechNova,32000,2024-06,18935.97,85.74,4.14,32000.0
+O0233,Aman Verma,C003,Laptop Pro,P001,3,195000,2024-09-01,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Laptop Pro,Electronics,TechNova,65000,2024-09,21606.69,88.36,4.2,65000.0
+O0234,Priya Mehta,C002,Wireless Headphones,P002,4,18000,2024-09-08,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Wireless Headphones,Electronics,SoundMax,4500,2024-09,21606.69,88.36,4.2,4500.0
+O0235,Priya Mehta,C002,Desk Lamp,P010,1,1800,2024-03-18,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-03,22391.96,75.45,4.6,1800.0
+O0236,Aman Verma,C003,Desk Lamp,P010,3,5400,2024-02-13,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Desk Lamp,Furniture,BrightHome,1800,2024-02,23704.29,76.37,6.36,1800.0
+O0237,Sneha Kapoor,C004,Wireless Headphones,P002,5,22500,2024-08-01,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-08,23197.06,78.74,4.51,4500.0
+O0238,Kavya Nair,C010,Desk Lamp,P010,5,9000,2024-04-25,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Desk Lamp,Furniture,BrightHome,1800,2024-04,21591.95,75.5,5.54,1800.0
+O0239,Karan Malhotra,C013,Yoga Mat,P009,4,6000,2024-08-18,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0240,Sahil Jain,C015,Smartphone X,P008,3,96000,2024-10-28,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Smartphone X,Electronics,TechNova,32000,2024-10,22248.44,74.18,6.85,32000.0
+O0241,Rohit Kumar,C007,Office Chair,P005,5,45000,2024-11-13,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-11,18123.51,78.76,6.9,9000.0
+O0242,Rahul Sharma,C001,Desk Lamp,P010,1,1800,2024-04-16,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-04,21591.95,75.5,5.54,1800.0
+O0243,Aditya Joshi,C011,Running Shoes,P004,3,10500,2024-12-04,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Running Shoes,Sports,Sportify,3500,2024-12,23819.46,80.99,6.43,3500.0
+O0244,Priya Mehta,C002,Smart Watch,P003,2,14000,2024-03-29,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-03,22391.96,75.45,4.6,7000.0
+O0245,Vikram Patel,C009,Wireless Headphones,P002,2,9000,2024-01-02,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Wireless Headphones,Electronics,SoundMax,4500,2024-01,20247.24,94.97,5.37,4500.0
+O0246,Rohit Kumar,C007,Smartphone X,P008,5,160000,2024-08-28,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-08,23197.06,78.74,4.51,32000.0
+O0247,Arjun Singh,C005,Laptop Pro,P001,2,130000,2024-05-27,High Confidence,100.0,C005,Arjun Singh,Pune,West,Laptop Pro,Electronics,TechNova,65000,2024-05,18936.11,79.13,5.78,65000.0
+O0248,Meera Shah,C012,Office Chair,P005,4,36000,2024-02-06,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-02,23704.29,76.37,6.36,9000.0
+O0249,Aditya Joshi,C011,Running Shoes,P004,3,10500,2024-11-16,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0250,Kavya Nair,C010,Running Shoes,P004,4,14000,2024-02-28,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Running Shoes,Sports,Sportify,3500,2024-02,23704.29,76.37,6.36,3500.0
+O0251,Vikram Patel,C009,Running Shoes,P004,2,7000,2024-05-16,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Running Shoes,Sports,Sportify,3500,2024-05,18936.11,79.13,5.78,3500.0
+O0252,Pooja Rao,C014,Smart Watch,P003,1,7000,2024-01-31,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0253,Aman Verma,C003,Office Chair,P005,5,45000,2024-10-18,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-10,22248.44,74.18,6.85,9000.0
+O0254,Sahil Jain,C015,Office Chair,P005,4,36000,2024-03-04,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0255,Ananya Iyer,C008,Office Chair,P005,4,36000,2024-05-19,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Office Chair,Furniture,ComfortCo,9000,2024-05,18936.11,79.13,5.78,9000.0
+O0256,Vikram Patel,C009,Yoga Mat,P009,4,6000,2024-08-12,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0257,Priya Mehta,C002,Desk Lamp,P010,1,1800,2024-08-09,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-08,23197.06,78.74,4.51,1800.0
+O0258,Meera Shah,C012,Backpack,P006,5,11000,2024-05-08,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-05,18936.11,79.13,5.78,2200.0
+O0259,Rahul Sharma,C001,Wireless Headphones,P002,2,9000,2024-12-11,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-12,23819.46,80.99,6.43,4500.0
+O0260,Pooja Rao,C014,Desk Lamp,P010,5,9000,2024-01-11,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Desk Lamp,Furniture,BrightHome,1800,2024-01,20247.24,94.97,5.37,1800.0
+O0261,Karan Malhotra,C013,Office Chair,P005,5,45000,2024-01-21,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0262,Karan Malhotra,C013,Smart Watch,P003,4,28000,2024-09-22,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smart Watch,Electronics,FitTech,7000,2024-09,21606.69,88.36,4.2,7000.0
+O0263,Aditya Joshi,C011,Smartphone X,P008,3,96000,2024-04-02,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Smartphone X,Electronics,TechNova,32000,2024-04,21591.95,75.5,5.54,32000.0
+O0264,Kavya Nair,C010,Coffee Maker,P007,4,22000,2024-02-16,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-02,23704.29,76.37,6.36,5500.0
+O0265,Ananya Iyer,C008,Backpack,P006,4,8800,2024-06-19,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Backpack,Accessories,UrbanGear,2200,2024-06,18935.97,85.74,4.14,2200.0
+O0266,Neha Gupta,C006,Wireless Headphones,P002,2,9000,2024-06-17,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-06,18935.97,85.74,4.14,4500.0
+O0267,Rohit Kumar,C007,Smartphone X,P008,3,96000,2024-12-05,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-12,23819.46,80.99,6.43,32000.0
+O0268,Rohit Kumar,C007,Yoga Mat,P009,1,1500,2024-08-20,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0269,Priya Mehta,C002,Backpack,P006,3,6600,2024-06-14,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-06,18935.97,85.74,4.14,2200.0
+O0270,Priya Mehta,C002,Coffee Maker,P007,5,27500,2024-01-01,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-01,20247.24,94.97,5.37,5500.0
+O0271,Aditya Joshi,C011,Yoga Mat,P009,4,6000,2024-07-30,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Yoga Mat,Sports,FitLife,1500,2024-07,18348.5,82.96,5.82,1500.0
+O0272,Rahul Sharma,C001,Running Shoes,P004,5,17500,2024-07-04,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-07,18348.5,82.96,5.82,3500.0
+O0273,Kavya Nair,C010,Smartphone X,P008,4,128000,2024-01-27,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Smartphone X,Electronics,TechNova,32000,2024-01,20247.24,94.97,5.37,32000.0
+O0274,Sneha Kapoor,C004,Office Chair,P005,5,45000,2024-03-08,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0275,Sahil Jain,C015,Office Chair,P005,4,36000,2024-12-23,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-12,23819.46,80.99,6.43,9000.0
+O0276,Ananya Iyer,C008,Wireless Headphones,P002,1,4500,2024-11-18,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Wireless Headphones,Electronics,SoundMax,4500,2024-11,18123.51,78.76,6.9,4500.0
+O0277,Kavya Nair,C010,Running Shoes,P004,2,7000,2024-06-08,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Running Shoes,Sports,Sportify,3500,2024-06,18935.97,85.74,4.14,3500.0
+O0278,Vikram Patel,C009,Laptop Pro,P001,5,325000,2024-07-27,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Laptop Pro,Electronics,TechNova,65000,2024-07,18348.5,82.96,5.82,65000.0
+O0279,Priya Mehta,C002,Running Shoes,P004,1,3500,2024-08-24,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-08,23197.06,78.74,4.51,3500.0
+O0280,Priya Mehta,C002,Smart Watch,P003,4,28000,2024-05-29,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-05,18936.11,79.13,5.78,7000.0
+O0281,Vikram Patel,C009,Office Chair,P005,4,36000,2024-09-04,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Office Chair,Furniture,ComfortCo,9000,2024-09,21606.69,88.36,4.2,9000.0
+O0282,Ananya Iyer,C008,Running Shoes,P004,4,14000,2024-10-09,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Running Shoes,Sports,Sportify,3500,2024-10,22248.44,74.18,6.85,3500.0
+O0283,Aman Verma,C003,Coffee Maker,P007,2,11000,2024-11-02,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-11,18123.51,78.76,6.9,5500.0
+O0284,Vikram Patel,C009,Smart Watch,P003,1,7000,2024-05-21,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Smart Watch,Electronics,FitTech,7000,2024-05,18936.11,79.13,5.78,7000.0
+O0285,Karan Malhotra,C013,Coffee Maker,P007,3,16500,2024-09-16,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-09,21606.69,88.36,4.2,5500.0
+O0286,Arjun Singh,C005,Laptop Pro,P001,3,195000,2024-06-01,High Confidence,100.0,C005,Arjun Singh,Pune,West,Laptop Pro,Electronics,TechNova,65000,2024-06,18935.97,85.74,4.14,65000.0
+O0287,Pooja Rao,C014,Desk Lamp,P010,5,9000,2024-12-03,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0288,Ananya Iyer,C008,Smart Watch,P003,4,28000,2024-10-02,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smart Watch,Electronics,FitTech,7000,2024-10,22248.44,74.18,6.85,7000.0
+O0289,Ananya Iyer,C008,Backpack,P006,3,6600,2024-10-09,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Backpack,Accessories,UrbanGear,2200,2024-10,22248.44,74.18,6.85,2200.0
+O0290,Karan Malhotra,C013,Yoga Mat,P009,4,6000,2024-08-21,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0291,Sahil Jain,C015,Backpack,P006,2,4400,2024-12-23,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Backpack,Accessories,UrbanGear,2200,2024-12,23819.46,80.99,6.43,2200.0
+O0292,Sneha Kapoor,C004,Desk Lamp,P010,4,7200,2024-04-29,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-04,21591.95,75.5,5.54,1800.0
+O0293,Pooja Rao,C014,Coffee Maker,P007,1,5500,2024-06-11,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-06,18935.97,85.74,4.14,5500.0
+O0294,Meera Shah,C012,Smartphone X,P008,4,128000,2024-07-16,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-07,18348.5,82.96,5.82,32000.0
+O0295,Aditya Joshi,C011,Smart Watch,P003,4,28000,2024-01-19,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0296,Aman Verma,C003,Yoga Mat,P009,5,7500,2024-06-18,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Yoga Mat,Sports,FitLife,1500,2024-06,18935.97,85.74,4.14,1500.0
+O0297,Pooja Rao,C014,Wireless Headphones,P002,4,18000,2024-02-21,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-02,23704.29,76.37,6.36,4500.0
+O0298,Vikram Patel,C009,Smartphone X,P008,1,32000,2024-03-14,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Smartphone X,Electronics,TechNova,32000,2024-03,22391.96,75.45,4.6,32000.0
+O0299,Rohit Kumar,C007,Smart Watch,P003,1,7000,2024-08-28,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-08,23197.06,78.74,4.51,7000.0
+O0300,Karan Malhotra,C013,Office Chair,P005,3,27000,2024-11-15,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Office Chair,Furniture,ComfortCo,9000,2024-11,18123.51,78.76,6.9,9000.0
+O0301,Meera Shah,C012,Coffee Maker,P007,1,5500,2024-06-17,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-06,18935.97,85.74,4.14,5500.0
+O0302,Pooja Rao,C014,Yoga Mat,P009,4,6000,2024-06-11,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-06,18935.97,85.74,4.14,1500.0
+O0303,Aditya Joshi,C011,Smartphone X,P008,5,160000,2024-01-19,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Smartphone X,Electronics,TechNova,32000,2024-01,20247.24,94.97,5.37,32000.0
+O0304,Kavya Nair,C010,Wireless Headphones,P002,2,9000,2024-11-19,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Wireless Headphones,Electronics,SoundMax,4500,2024-11,18123.51,78.76,6.9,4500.0
+O0305,Aditya Joshi,C011,Office Chair,P005,2,18000,2024-02-16,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Office Chair,Furniture,ComfortCo,9000,2024-02,23704.29,76.37,6.36,9000.0
+O0306,Rohit Kumar,C007,Wireless Headphones,P002,1,4500,2024-08-15,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-08,23197.06,78.74,4.51,4500.0
+O0307,Aman Verma,C003,Office Chair,P005,1,9000,2024-01-24,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0308,Neha Gupta,C006,Laptop Pro,P001,3,195000,2024-07-02,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Laptop Pro,Electronics,TechNova,65000,2024-07,18348.5,82.96,5.82,65000.0
+O0309,Neha Gupta,C006,Coffee Maker,P007,2,11000,2024-05-05,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-05,18936.11,79.13,5.78,5500.0
+O0310,Vikram Patel,C009,Coffee Maker,P007,5,27500,2024-12-15,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-12,23819.46,80.99,6.43,5500.0
+O0311,Karan Malhotra,C013,Smart Watch,P003,2,14000,2024-03-30,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smart Watch,Electronics,FitTech,7000,2024-03,22391.96,75.45,4.6,7000.0
+O0312,Priya Mehta,C002,Desk Lamp,P010,4,7200,2024-11-13,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-11,18123.51,78.76,6.9,1800.0
+O0313,Aditya Joshi,C011,Running Shoes,P004,4,14000,2024-10-25,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Running Shoes,Sports,Sportify,3500,2024-10,22248.44,74.18,6.85,3500.0
+O0314,Aman Verma,C003,Running Shoes,P004,4,14000,2024-11-22,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0315,Arjun Singh,C005,Smartphone X,P008,3,96000,2024-12-07,High Confidence,100.0,C005,Arjun Singh,Pune,West,Smartphone X,Electronics,TechNova,32000,2024-12,23819.46,80.99,6.43,32000.0
+O0316,Rahul Sharma,C001,Smartphone X,P008,3,96000,2024-12-12,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-12,23819.46,80.99,6.43,32000.0
+O0317,Vikram Patel,C009,Smart Watch,P003,1,7000,2024-08-14,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Smart Watch,Electronics,FitTech,7000,2024-08,23197.06,78.74,4.51,7000.0
+O0318,Neha Gupta,C006,Desk Lamp,P010,3,5400,2024-11-23,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Desk Lamp,Furniture,BrightHome,1800,2024-11,18123.51,78.76,6.9,1800.0
+O0319,Rohit Kumar,C007,Office Chair,P005,4,36000,2024-06-03,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-06,18935.97,85.74,4.14,9000.0
+O0320,Sneha Kapoor,C004,Coffee Maker,P007,4,22000,2024-02-24,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-02,23704.29,76.37,6.36,5500.0
+O0321,Sneha Kapoor,C004,Coffee Maker,P007,5,27500,2024-07-02,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-07,18348.5,82.96,5.82,5500.0
+O0322,Kavya Nair,C010,Office Chair,P005,3,27000,2024-01-12,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0323,Pooja Rao,C014,Coffee Maker,P007,3,16500,2024-01-05,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-01,20247.24,94.97,5.37,5500.0
+O0324,Kavya Nair,C010,Laptop Pro,P001,5,325000,2024-09-11,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Laptop Pro,Electronics,TechNova,65000,2024-09,21606.69,88.36,4.2,65000.0
+O0325,Pooja Rao,C014,Office Chair,P005,2,18000,2024-11-06,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-11,18123.51,78.76,6.9,9000.0
+O0326,Karan Malhotra,C013,Backpack,P006,2,4400,2024-11-21,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Backpack,Accessories,UrbanGear,2200,2024-11,18123.51,78.76,6.9,2200.0
+O0327,Sneha Kapoor,C004,Desk Lamp,P010,3,5400,2024-12-13,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0328,Karan Malhotra,C013,Smart Watch,P003,1,7000,2024-11-17,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smart Watch,Electronics,FitTech,7000,2024-11,18123.51,78.76,6.9,7000.0
+O0329,Aditya Joshi,C011,Laptop Pro,P001,3,195000,2024-08-13,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Laptop Pro,Electronics,TechNova,65000,2024-08,23197.06,78.74,4.51,65000.0
+O0330,Rahul Sharma,C001,Desk Lamp,P010,3,5400,2024-03-08,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-03,22391.96,75.45,4.6,1800.0
+O0331,Priya Mehta,C002,Office Chair,P005,3,27000,2024-07-31,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-07,18348.5,82.96,5.82,9000.0
+O0332,Aman Verma,C003,Running Shoes,P004,2,7000,2024-10-03,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Running Shoes,Sports,Sportify,3500,2024-10,22248.44,74.18,6.85,3500.0
+O0333,Sahil Jain,C015,Backpack,P006,5,11000,2024-09-13,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Backpack,Accessories,UrbanGear,2200,2024-09,21606.69,88.36,4.2,2200.0
+O0334,Sahil Jain,C015,Office Chair,P005,2,18000,2024-05-11,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-05,18936.11,79.13,5.78,9000.0
+O0335,Sahil Jain,C015,Smartphone X,P008,3,96000,2024-06-22,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Smartphone X,Electronics,TechNova,32000,2024-06,18935.97,85.74,4.14,32000.0
+O0336,Karan Malhotra,C013,Wireless Headphones,P002,4,18000,2024-02-08,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Wireless Headphones,Electronics,SoundMax,4500,2024-02,23704.29,76.37,6.36,4500.0
+O0337,Aman Verma,C003,Running Shoes,P004,4,14000,2024-10-12,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Running Shoes,Sports,Sportify,3500,2024-10,22248.44,74.18,6.85,3500.0
+O0338,Neha Gupta,C006,Wireless Headphones,P002,4,18000,2024-01-08,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-01,20247.24,94.97,5.37,4500.0
+O0339,Arjun Singh,C005,Yoga Mat,P009,1,1500,2024-08-20,High Confidence,100.0,C005,Arjun Singh,Pune,West,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0340,Neha Gupta,C006,Office Chair,P005,5,45000,2024-07-14,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-07,18348.5,82.96,5.82,9000.0
+O0341,Pooja Rao,C014,Backpack,P006,1,2200,2024-12-11,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Backpack,Accessories,UrbanGear,2200,2024-12,23819.46,80.99,6.43,2200.0
+O0342,Sneha Kapoor,C004,Smartphone X,P008,1,32000,2024-11-13,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-11,18123.51,78.76,6.9,32000.0
+O0343,Sahil Jain,C015,Yoga Mat,P009,3,4500,2024-11-08,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Yoga Mat,Sports,FitLife,1500,2024-11,18123.51,78.76,6.9,1500.0
+O0344,Sneha Kapoor,C004,Wireless Headphones,P002,4,18000,2024-12-24,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-12,23819.46,80.99,6.43,4500.0
+O0345,Arjun Singh,C005,Coffee Maker,P007,1,5500,2024-03-12,High Confidence,100.0,C005,Arjun Singh,Pune,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-03,22391.96,75.45,4.6,5500.0
+O0346,Rahul Sharma,C001,Laptop Pro,P001,3,195000,2024-09-09,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Laptop Pro,Electronics,TechNova,65000,2024-09,21606.69,88.36,4.2,65000.0
+O0347,Priya Mehta,C002,Wireless Headphones,P002,2,9000,2024-10-02,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Wireless Headphones,Electronics,SoundMax,4500,2024-10,22248.44,74.18,6.85,4500.0
+O0348,Aman Verma,C003,Coffee Maker,P007,4,22000,2024-07-08,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-07,18348.5,82.96,5.82,5500.0
+O0349,Aditya Joshi,C011,Yoga Mat,P009,4,6000,2024-10-27,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Yoga Mat,Sports,FitLife,1500,2024-10,22248.44,74.18,6.85,1500.0
+O0350,Meera Shah,C012,Smart Watch,P003,4,28000,2024-12-01,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smart Watch,Electronics,FitTech,7000,2024-12,23819.46,80.99,6.43,7000.0
+O0351,Priya Mehta,C002,Smartphone X,P008,5,160000,2024-07-27,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-07,18348.5,82.96,5.82,32000.0
+O0352,Arjun Singh,C005,Laptop Pro,P001,3,195000,2024-04-21,High Confidence,100.0,C005,Arjun Singh,Pune,West,Laptop Pro,Electronics,TechNova,65000,2024-04,21591.95,75.5,5.54,65000.0
+O0353,Ananya Iyer,C008,Smartphone X,P008,2,64000,2024-07-04,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smartphone X,Electronics,TechNova,32000,2024-07,18348.5,82.96,5.82,32000.0
+O0354,Priya Mehta,C002,Backpack,P006,5,11000,2024-11-26,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-11,18123.51,78.76,6.9,2200.0
+O0355,Neha Gupta,C006,Laptop Pro,P001,4,260000,2024-05-21,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Laptop Pro,Electronics,TechNova,65000,2024-05,18936.11,79.13,5.78,65000.0
+O0356,Sneha Kapoor,C004,Wireless Headphones,P002,4,18000,2024-02-16,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-02,23704.29,76.37,6.36,4500.0
+O0357,Aditya Joshi,C011,Running Shoes,P004,5,17500,2024-01-11,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Running Shoes,Sports,Sportify,3500,2024-01,20247.24,94.97,5.37,3500.0
+O0358,Rahul Sharma,C001,Backpack,P006,2,4400,2024-03-05,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-03,22391.96,75.45,4.6,2200.0
+O0359,Karan Malhotra,C013,Desk Lamp,P010,2,3600,2024-02-05,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-02,23704.29,76.37,6.36,1800.0
+O0360,Pooja Rao,C014,Yoga Mat,P009,2,3000,2024-10-27,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-10,22248.44,74.18,6.85,1500.0
+O0361,Sneha Kapoor,C004,Running Shoes,P004,3,10500,2024-03-16,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Running Shoes,Sports,Sportify,3500,2024-03,22391.96,75.45,4.6,3500.0
+O0362,Karan Malhotra,C013,Desk Lamp,P010,1,1800,2024-05-21,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-05,18936.11,79.13,5.78,1800.0
+O0363,Pooja Rao,C014,Smart Watch,P003,2,14000,2024-10-03,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-10,22248.44,74.18,6.85,7000.0
+O0364,Arjun Singh,C005,Smart Watch,P003,1,7000,2024-12-04,High Confidence,100.0,C005,Arjun Singh,Pune,West,Smart Watch,Electronics,FitTech,7000,2024-12,23819.46,80.99,6.43,7000.0
+O0365,Pooja Rao,C014,Laptop Pro,P001,2,130000,2024-01-08,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Laptop Pro,Electronics,TechNova,65000,2024-01,20247.24,94.97,5.37,65000.0
+O0366,Neha Gupta,C006,Running Shoes,P004,5,17500,2024-06-14,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Running Shoes,Sports,Sportify,3500,2024-06,18935.97,85.74,4.14,3500.0
+O0367,Rahul Sharma,C001,Smart Watch,P003,3,21000,2024-01-27,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0368,Aman Verma,C003,Coffee Maker,P007,5,27500,2024-02-28,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-02,23704.29,76.37,6.36,5500.0
+O0369,Meera Shah,C012,Wireless Headphones,P002,4,18000,2024-08-17,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Wireless Headphones,Electronics,SoundMax,4500,2024-08,23197.06,78.74,4.51,4500.0
+O0370,Karan Malhotra,C013,Backpack,P006,5,11000,2024-10-30,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Backpack,Accessories,UrbanGear,2200,2024-10,22248.44,74.18,6.85,2200.0
+O0371,Priya Mehta,C002,Smartphone X,P008,5,160000,2024-04-23,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-04,21591.95,75.5,5.54,32000.0
+O0372,Kavya Nair,C010,Laptop Pro,P001,5,325000,2024-06-03,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Laptop Pro,Electronics,TechNova,65000,2024-06,18935.97,85.74,4.14,65000.0
+O0373,Ananya Iyer,C008,Laptop Pro,P001,1,65000,2024-09-02,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Laptop Pro,Electronics,TechNova,65000,2024-09,21606.69,88.36,4.2,65000.0
+O0374,Pooja Rao,C014,Coffee Maker,P007,4,22000,2024-12-17,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-12,23819.46,80.99,6.43,5500.0
+O0375,Priya Mehta,C002,Smartphone X,P008,4,128000,2024-02-07,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-02,23704.29,76.37,6.36,32000.0
+O0376,Sahil Jain,C015,Wireless Headphones,P002,3,13500,2024-11-07,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Wireless Headphones,Electronics,SoundMax,4500,2024-11,18123.51,78.76,6.9,4500.0
+O0377,Aman Verma,C003,Wireless Headphones,P002,2,9000,2024-05-20,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Wireless Headphones,Electronics,SoundMax,4500,2024-05,18936.11,79.13,5.78,4500.0
+O0378,Kavya Nair,C010,Desk Lamp,P010,5,9000,2024-12-30,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0379,Neha Gupta,C006,Coffee Maker,P007,5,27500,2024-09-28,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-09,21606.69,88.36,4.2,5500.0
+O0380,Arjun Singh,C005,Smartphone X,P008,5,160000,2024-11-05,High Confidence,100.0,C005,Arjun Singh,Pune,West,Smartphone X,Electronics,TechNova,32000,2024-11,18123.51,78.76,6.9,32000.0
+O0381,Rohit Kumar,C007,Wireless Headphones,P002,1,4500,2024-12-01,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-12,23819.46,80.99,6.43,4500.0
+O0382,Aditya Joshi,C011,Yoga Mat,P009,2,3000,2024-08-08,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0383,Ananya Iyer,C008,Running Shoes,P004,4,14000,2024-06-22,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Running Shoes,Sports,Sportify,3500,2024-06,18935.97,85.74,4.14,3500.0
+O0384,Pooja Rao,C014,Smartphone X,P008,4,128000,2024-07-31,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Smartphone X,Electronics,TechNova,32000,2024-07,18348.5,82.96,5.82,32000.0
+O0385,Meera Shah,C012,Wireless Headphones,P002,3,13500,2024-08-06,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Wireless Headphones,Electronics,SoundMax,4500,2024-08,23197.06,78.74,4.51,4500.0
+O0386,Neha Gupta,C006,Office Chair,P005,3,27000,2024-03-19,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0387,Aditya Joshi,C011,Smartphone X,P008,1,32000,2024-02-16,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Smartphone X,Electronics,TechNova,32000,2024-02,23704.29,76.37,6.36,32000.0
+O0388,Pooja Rao,C014,Wireless Headphones,P002,1,4500,2024-08-09,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-08,23197.06,78.74,4.51,4500.0
+O0389,Priya Mehta,C002,Backpack,P006,2,4400,2024-10-11,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-10,22248.44,74.18,6.85,2200.0
+O0390,Rahul Sharma,C001,Desk Lamp,P010,5,9000,2024-10-14,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-10,22248.44,74.18,6.85,1800.0
+O0391,Neha Gupta,C006,Wireless Headphones,P002,4,18000,2024-06-30,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-06,18935.97,85.74,4.14,4500.0
+O0392,Pooja Rao,C014,Coffee Maker,P007,1,5500,2024-05-27,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-05,18936.11,79.13,5.78,5500.0
+O0393,Kavya Nair,C010,Office Chair,P005,3,27000,2024-02-23,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Office Chair,Furniture,ComfortCo,9000,2024-02,23704.29,76.37,6.36,9000.0
+O0394,Kavya Nair,C010,Yoga Mat,P009,2,3000,2024-03-20,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Yoga Mat,Sports,FitLife,1500,2024-03,22391.96,75.45,4.6,1500.0
+O0395,Aditya Joshi,C011,Smartphone X,P008,2,64000,2024-02-25,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Smartphone X,Electronics,TechNova,32000,2024-02,23704.29,76.37,6.36,32000.0
+O0396,Neha Gupta,C006,Yoga Mat,P009,3,4500,2024-02-28,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-02,23704.29,76.37,6.36,1500.0
+O0397,Karan Malhotra,C013,Office Chair,P005,5,45000,2024-04-25,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0398,Karan Malhotra,C013,Coffee Maker,P007,5,27500,2024-11-14,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-11,18123.51,78.76,6.9,5500.0
+O0399,Kavya Nair,C010,Yoga Mat,P009,1,1500,2024-11-07,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Yoga Mat,Sports,FitLife,1500,2024-11,18123.51,78.76,6.9,1500.0
+O0400,Sahil Jain,C015,Office Chair,P005,1,9000,2024-04-02,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0401,Arjun Singh,C005,Office Chair,P005,3,27000,2024-06-28,High Confidence,100.0,C005,Arjun Singh,Pune,West,Office Chair,Furniture,ComfortCo,9000,2024-06,18935.97,85.74,4.14,9000.0
+O0402,Rahul Sharma,C001,Smart Watch,P003,2,14000,2024-10-16,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-10,22248.44,74.18,6.85,7000.0
+O0403,Aditya Joshi,C011,Coffee Maker,P007,1,5500,2024-03-13,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-03,22391.96,75.45,4.6,5500.0
+O0404,Meera Shah,C012,Laptop Pro,P001,1,65000,2024-09-28,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Laptop Pro,Electronics,TechNova,65000,2024-09,21606.69,88.36,4.2,65000.0
+O0405,Sneha Kapoor,C004,Coffee Maker,P007,4,22000,2024-08-20,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-08,23197.06,78.74,4.51,5500.0
+O0406,Neha Gupta,C006,Smart Watch,P003,3,21000,2024-06-08,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-06,18935.97,85.74,4.14,7000.0
+O0407,Meera Shah,C012,Backpack,P006,5,11000,2024-11-01,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-11,18123.51,78.76,6.9,2200.0
+O0408,Priya Mehta,C002,Laptop Pro,P001,2,130000,2024-03-21,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Laptop Pro,Electronics,TechNova,65000,2024-03,22391.96,75.45,4.6,65000.0
+O0409,Karan Malhotra,C013,Desk Lamp,P010,1,1800,2024-12-11,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0410,Priya Mehta,C002,Office Chair,P005,4,36000,2024-12-04,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Office Chair,Furniture,ComfortCo,9000,2024-12,23819.46,80.99,6.43,9000.0
+O0411,Rohit Kumar,C007,Smartphone X,P008,5,160000,2024-08-14,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-08,23197.06,78.74,4.51,32000.0
+O0412,Rohit Kumar,C007,Office Chair,P005,2,18000,2024-09-19,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-09,21606.69,88.36,4.2,9000.0
+O0413,Priya Mehta,C002,Backpack,P006,4,8800,2024-02-26,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Backpack,Accessories,UrbanGear,2200,2024-02,23704.29,76.37,6.36,2200.0
+O0414,Arjun Singh,C005,Desk Lamp,P010,4,7200,2024-09-26,High Confidence,100.0,C005,Arjun Singh,Pune,West,Desk Lamp,Furniture,BrightHome,1800,2024-09,21606.69,88.36,4.2,1800.0
+O0415,Aditya Joshi,C011,Office Chair,P005,1,9000,2024-04-22,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0416,Rohit Kumar,C007,Desk Lamp,P010,1,1800,2024-01-04,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-01,20247.24,94.97,5.37,1800.0
+O0417,Sneha Kapoor,C004,Office Chair,P005,2,18000,2024-03-11,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0418,Karan Malhotra,C013,Office Chair,P005,3,27000,2024-06-16,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Office Chair,Furniture,ComfortCo,9000,2024-06,18935.97,85.74,4.14,9000.0
+O0419,Priya Mehta,C002,Laptop Pro,P001,4,260000,2024-08-08,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Laptop Pro,Electronics,TechNova,65000,2024-08,23197.06,78.74,4.51,65000.0
+O0420,Aman Verma,C003,Smart Watch,P003,4,28000,2024-09-29,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Smart Watch,Electronics,FitTech,7000,2024-09,21606.69,88.36,4.2,7000.0
+O0421,Meera Shah,C012,Running Shoes,P004,5,17500,2024-10-13,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-10,22248.44,74.18,6.85,3500.0
+O0422,Pooja Rao,C014,Backpack,P006,1,2200,2024-07-22,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Backpack,Accessories,UrbanGear,2200,2024-07,18348.5,82.96,5.82,2200.0
+O0423,Pooja Rao,C014,Laptop Pro,P001,4,260000,2024-01-10,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Laptop Pro,Electronics,TechNova,65000,2024-01,20247.24,94.97,5.37,65000.0
+O0424,Ananya Iyer,C008,Wireless Headphones,P002,3,13500,2024-10-21,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Wireless Headphones,Electronics,SoundMax,4500,2024-10,22248.44,74.18,6.85,4500.0
+O0425,Rohit Kumar,C007,Desk Lamp,P010,4,7200,2024-12-29,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0426,Aditya Joshi,C011,Coffee Maker,P007,3,16500,2024-02-28,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-02,23704.29,76.37,6.36,5500.0
+O0427,Rohit Kumar,C007,Laptop Pro,P001,3,195000,2024-03-28,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Laptop Pro,Electronics,TechNova,65000,2024-03,22391.96,75.45,4.6,65000.0
+O0428,Karan Malhotra,C013,Desk Lamp,P010,4,7200,2024-12-19,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0429,Sahil Jain,C015,Backpack,P006,1,2200,2024-08-11,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Backpack,Accessories,UrbanGear,2200,2024-08,23197.06,78.74,4.51,2200.0
+O0430,Pooja Rao,C014,Wireless Headphones,P002,2,9000,2024-08-11,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-08,23197.06,78.74,4.51,4500.0
+O0431,Kavya Nair,C010,Coffee Maker,P007,5,27500,2024-02-10,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Coffee Maker,Home Appliances,BrewMaster,5500,2024-02,23704.29,76.37,6.36,5500.0
+O0432,Rohit Kumar,C007,Office Chair,P005,3,27000,2024-04-23,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0433,Neha Gupta,C006,Smart Watch,P003,1,7000,2024-09-18,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-09,21606.69,88.36,4.2,7000.0
+O0434,Aditya Joshi,C011,Wireless Headphones,P002,5,22500,2024-09-18,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Wireless Headphones,Electronics,SoundMax,4500,2024-09,21606.69,88.36,4.2,4500.0
+O0435,Sneha Kapoor,C004,Backpack,P006,3,6600,2024-11-26,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-11,18123.51,78.76,6.9,2200.0
+O0436,Pooja Rao,C014,Smart Watch,P003,2,14000,2024-02-22,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-02,23704.29,76.37,6.36,7000.0
+O0437,Aman Verma,C003,Office Chair,P005,2,18000,2024-03-29,High Confidence,100.0,C003,Aman Verma,Bengaluru,South,Office Chair,Furniture,ComfortCo,9000,2024-03,22391.96,75.45,4.6,9000.0
+O0438,Kavya Nair,C010,Smart Watch,P003,1,7000,2024-03-31,High Confidence,100.0,C010,Kavya Nair,Kochi,South,Smart Watch,Electronics,FitTech,7000,2024-03,22391.96,75.45,4.6,7000.0
+O0439,Karan Malhotra,C013,Smartphone X,P008,4,128000,2024-10-15,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Smartphone X,Electronics,TechNova,32000,2024-10,22248.44,74.18,6.85,32000.0
+O0440,Karan Malhotra,C013,Desk Lamp,P010,4,7200,2024-12-14,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-12,23819.46,80.99,6.43,1800.0
+O0441,Sahil Jain,C015,Desk Lamp,P010,5,9000,2024-06-14,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Desk Lamp,Furniture,BrightHome,1800,2024-06,18935.97,85.74,4.14,1800.0
+O0442,Pooja Rao,C014,Backpack,P006,2,4400,2024-08-13,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Backpack,Accessories,UrbanGear,2200,2024-08,23197.06,78.74,4.51,2200.0
+O0443,Priya Mehta,C002,Smartphone X,P008,4,128000,2024-11-19,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-11,18123.51,78.76,6.9,32000.0
+O0444,Arjun Singh,C005,Office Chair,P005,5,45000,2024-01-29,High Confidence,100.0,C005,Arjun Singh,Pune,West,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0445,Neha Gupta,C006,Yoga Mat,P009,1,1500,2024-06-07,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-06,18935.97,85.74,4.14,1500.0
+O0446,Ananya Iyer,C008,Smartphone X,P008,1,32000,2024-01-30,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smartphone X,Electronics,TechNova,32000,2024-01,20247.24,94.97,5.37,32000.0
+O0447,Neha Gupta,C006,Office Chair,P005,1,9000,2024-11-26,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-11,18123.51,78.76,6.9,9000.0
+O0448,Pooja Rao,C014,Wireless Headphones,P002,5,22500,2024-10-31,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Wireless Headphones,Electronics,SoundMax,4500,2024-10,22248.44,74.18,6.85,4500.0
+O0449,Vikram Patel,C009,Coffee Maker,P007,4,22000,2024-10-24,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0450,Vikram Patel,C009,Laptop Pro,P001,4,260000,2024-10-19,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Laptop Pro,Electronics,TechNova,65000,2024-10,22248.44,74.18,6.85,65000.0
+O0451,Aditya Joshi,C011,Running Shoes,P004,3,10500,2024-11-05,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0452,Ananya Iyer,C008,Yoga Mat,P009,2,3000,2024-02-01,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Yoga Mat,Sports,FitLife,1500,2024-02,23704.29,76.37,6.36,1500.0
+O0453,Ananya Iyer,C008,Wireless Headphones,P002,3,13500,2024-02-13,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Wireless Headphones,Electronics,SoundMax,4500,2024-02,23704.29,76.37,6.36,4500.0
+O0454,Vikram Patel,C009,Smart Watch,P003,1,7000,2024-05-06,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Smart Watch,Electronics,FitTech,7000,2024-05,18936.11,79.13,5.78,7000.0
+O0455,Meera Shah,C012,Smartphone X,P008,4,128000,2024-09-25,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Smartphone X,Electronics,TechNova,32000,2024-09,21606.69,88.36,4.2,32000.0
+O0456,Vikram Patel,C009,Desk Lamp,P010,2,3600,2024-07-05,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Desk Lamp,Furniture,BrightHome,1800,2024-07,18348.5,82.96,5.82,1800.0
+O0457,Neha Gupta,C006,Office Chair,P005,4,36000,2024-07-28,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Office Chair,Furniture,ComfortCo,9000,2024-07,18348.5,82.96,5.82,9000.0
+O0458,Karan Malhotra,C013,Backpack,P006,5,11000,2024-01-27,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Backpack,Accessories,UrbanGear,2200,2024-01,20247.24,94.97,5.37,2200.0
+O0459,Karan Malhotra,C013,Backpack,P006,1,2200,2024-06-17,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Backpack,Accessories,UrbanGear,2200,2024-06,18935.97,85.74,4.14,2200.0
+O0460,Priya Mehta,C002,Yoga Mat,P009,4,6000,2024-05-25,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-05,18936.11,79.13,5.78,1500.0
+O0461,Arjun Singh,C005,Desk Lamp,P010,2,3600,2024-06-19,High Confidence,100.0,C005,Arjun Singh,Pune,West,Desk Lamp,Furniture,BrightHome,1800,2024-06,18935.97,85.74,4.14,1800.0
+O0462,Priya Mehta,C002,Desk Lamp,P010,2,3600,2024-06-28,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Desk Lamp,Furniture,BrightHome,1800,2024-06,18935.97,85.74,4.14,1800.0
+O0463,Arjun Singh,C005,Coffee Maker,P007,2,11000,2024-10-31,High Confidence,100.0,C005,Arjun Singh,Pune,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-10,22248.44,74.18,6.85,5500.0
+O0464,Meera Shah,C012,Wireless Headphones,P002,3,13500,2024-10-13,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Wireless Headphones,Electronics,SoundMax,4500,2024-10,22248.44,74.18,6.85,4500.0
+O0465,Rohit Kumar,C007,Backpack,P006,2,4400,2024-12-09,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-12,23819.46,80.99,6.43,2200.0
+O0466,Meera Shah,C012,Yoga Mat,P009,1,1500,2024-11-26,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Yoga Mat,Sports,FitLife,1500,2024-11,18123.51,78.76,6.9,1500.0
+O0467,Aditya Joshi,C011,Coffee Maker,P007,5,27500,2024-07-04,High Confidence,100.0,C011,Aditya Joshi,Jaipur,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-07,18348.5,82.96,5.82,5500.0
+O0468,Rahul Sharma,C001,Backpack,P006,3,6600,2024-04-02,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-04,21591.95,75.5,5.54,2200.0
+O0469,Sneha Kapoor,C004,Backpack,P006,4,8800,2024-04-08,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-04,21591.95,75.5,5.54,2200.0
+O0470,Sneha Kapoor,C004,Smart Watch,P003,2,14000,2024-02-09,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-02,23704.29,76.37,6.36,7000.0
+O0471,Arjun Singh,C005,Wireless Headphones,P002,5,22500,2024-10-03,High Confidence,100.0,C005,Arjun Singh,Pune,West,Wireless Headphones,Electronics,SoundMax,4500,2024-10,22248.44,74.18,6.85,4500.0
+O0472,Pooja Rao,C014,Yoga Mat,P009,1,1500,2024-12-04,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Yoga Mat,Sports,FitLife,1500,2024-12,23819.46,80.99,6.43,1500.0
+O0473,Neha Gupta,C006,Desk Lamp,P010,2,3600,2024-11-01,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Desk Lamp,Furniture,BrightHome,1800,2024-11,18123.51,78.76,6.9,1800.0
+O0474,Rohit Kumar,C007,Smart Watch,P003,2,14000,2024-04-02,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-04,21591.95,75.5,5.54,7000.0
+O0475,Pooja Rao,C014,Desk Lamp,P010,2,3600,2024-08-12,High Confidence,100.0,C014,Pooja Rao,Hyderabad,South,Desk Lamp,Furniture,BrightHome,1800,2024-08,23197.06,78.74,4.51,1800.0
+O0476,Rahul Sharma,C001,Coffee Maker,P007,3,16500,2024-12-12,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-12,23819.46,80.99,6.43,5500.0
+O0477,Meera Shah,C012,Running Shoes,P004,4,14000,2024-11-08,High Confidence,100.0,C012,Meera Shah,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-11,18123.51,78.76,6.9,3500.0
+O0478,Arjun Singh,C005,Smartphone X,P008,2,64000,2024-09-30,High Confidence,100.0,C005,Arjun Singh,Pune,West,Smartphone X,Electronics,TechNova,32000,2024-09,21606.69,88.36,4.2,32000.0
+O0479,Sneha Kapoor,C004,Office Chair,P005,4,36000,2024-04-09,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-04,21591.95,75.5,5.54,9000.0
+O0480,Neha Gupta,C006,Desk Lamp,P010,4,7200,2024-08-24,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Desk Lamp,Furniture,BrightHome,1800,2024-08,23197.06,78.74,4.51,1800.0
+O0481,Karan Malhotra,C013,Office Chair,P005,4,36000,2024-09-14,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Office Chair,Furniture,ComfortCo,9000,2024-09,21606.69,88.36,4.2,9000.0
+O0482,Vikram Patel,C009,Coffee Maker,P007,2,11000,2024-04-12,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-04,21591.95,75.5,5.54,5500.0
+O0483,Karan Malhotra,C013,Desk Lamp,P010,2,3600,2024-05-08,High Confidence,100.0,C013,Karan Malhotra,Gurugram,North,Desk Lamp,Furniture,BrightHome,1800,2024-05,18936.11,79.13,5.78,1800.0
+O0484,Rahul Sharma,C001,Smartphone X,P008,3,96000,2024-10-10,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Smartphone X,Electronics,TechNova,32000,2024-10,22248.44,74.18,6.85,32000.0
+O0485,Sahil Jain,C015,Wireless Headphones,P002,5,22500,2024-03-04,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Wireless Headphones,Electronics,SoundMax,4500,2024-03,22391.96,75.45,4.6,4500.0
+O0486,Arjun Singh,C005,Wireless Headphones,P002,2,9000,2024-05-19,High Confidence,100.0,C005,Arjun Singh,Pune,West,Wireless Headphones,Electronics,SoundMax,4500,2024-05,18936.11,79.13,5.78,4500.0
+O0487,Ananya Iyer,C008,Yoga Mat,P009,2,3000,2024-08-11,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Yoga Mat,Sports,FitLife,1500,2024-08,23197.06,78.74,4.51,1500.0
+O0488,Priya Mehta,C002,Running Shoes,P004,4,14000,2024-06-27,High Confidence,100.0,C002,Priya Mehta,Mumbai,West,Running Shoes,Sports,Sportify,3500,2024-06,18935.97,85.74,4.14,3500.0
+O0489,Sahil Jain,C015,Laptop Pro,P001,4,260000,2024-01-28,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Laptop Pro,Electronics,TechNova,65000,2024-01,20247.24,94.97,5.37,65000.0
+O0490,Rohit Kumar,C007,Yoga Mat,P009,3,4500,2024-04-30,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Yoga Mat,Sports,FitLife,1500,2024-04,21591.95,75.5,5.54,1500.0
+O0491,Rohit Kumar,C007,Wireless Headphones,P002,3,13500,2024-04-24,High Confidence,100.0,C007,Rohit Kumar,Delhi,North,Wireless Headphones,Electronics,SoundMax,4500,2024-04,21591.95,75.5,5.54,4500.0
+O0492,Rahul Sharma,C001,Backpack,P006,1,2200,2024-11-28,High Confidence,100.0,C001,Rahul Sharma,Delhi,North,Backpack,Accessories,UrbanGear,2200,2024-11,18123.51,78.76,6.9,2200.0
+O0493,Neha Gupta,C006,Smart Watch,P003,2,14000,2024-01-20,High Confidence,100.0,C006,Neha Gupta,Hyderabad,South,Smart Watch,Electronics,FitTech,7000,2024-01,20247.24,94.97,5.37,7000.0
+O0494,Arjun Singh,C005,Smartphone X,P008,2,64000,2024-12-27,High Confidence,100.0,C005,Arjun Singh,Pune,West,Smartphone X,Electronics,TechNova,32000,2024-12,23819.46,80.99,6.43,32000.0
+O0495,Ananya Iyer,C008,Smartphone X,P008,5,160000,2024-01-03,High Confidence,100.0,C008,Ananya Iyer,Chennai,South,Smartphone X,Electronics,TechNova,32000,2024-01,20247.24,94.97,5.37,32000.0
+O0496,Sahil Jain,C015,Wireless Headphones,P002,1,4500,2024-05-11,High Confidence,100.0,C015,Sahil Jain,Bengaluru,South,Wireless Headphones,Electronics,SoundMax,4500,2024-05,18936.11,79.13,5.78,4500.0
+O0497,Sneha Kapoor,C004,Smart Watch,P003,5,35000,2024-11-07,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Smart Watch,Electronics,FitTech,7000,2024-11,18123.51,78.76,6.9,7000.0
+O0498,Vikram Patel,C009,Coffee Maker,P007,1,5500,2024-05-27,High Confidence,100.0,C009,Vikram Patel,Ahmedabad,West,Coffee Maker,Home Appliances,BrewMaster,5500,2024-05,18936.11,79.13,5.78,5500.0
+O0499,Sneha Kapoor,C004,Office Chair,P005,1,9000,2024-01-25,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Office Chair,Furniture,ComfortCo,9000,2024-01,20247.24,94.97,5.37,9000.0
+O0500,Sneha Kapoor,C004,Coffee Maker,P007,5,27500,2024-08-22,High Confidence,100.0,C004,Sneha Kapoor,Delhi,North,Coffee Maker,Home Appliances,BrewMaster,5500,2024-08,23197.06,78.74,4.51,5500.0
