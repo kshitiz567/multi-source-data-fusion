@@ -23,6 +23,26 @@
 
 </p>
 
+## 🌐 Live Dashboard
+
+Experience the NexaMart Multi-Source Data Fusion & Business Intelligence platform interactively.
+
+👉 **[🚀 Launch Live Dashboard]
+
+(https://multi-source-data-fusion-nuvykyyascufvutmgtppbj.streamlit.app/)**
+
+The dashboard provides interactive analysis of:
+
+- 💰 Revenue performance
+- 📈 Monthly revenue trends
+- 🛍️ Product categories
+- 🏙️ City-wise performance
+- 👥 Customer insights
+- 📊 Business KPIs
+- 🔎 Interactive filtering
+- 🔗 Unified multi-source data
+
+> **Note:** The dashboard is deployed using Streamlit Community Cloud.
 ---
 
 ## 🔗 Quick Navigation
